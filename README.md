@@ -1,3 +1,6 @@
+# Preview
+![Grub theme Preview](grub_theme.png)
+
 # Installation
 
 ## Pop!_OS
