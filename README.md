@@ -36,7 +36,21 @@ Now open the grub-customizer
 * Theme and select mario
 * Hit _Save_ than reboot and enjoy your new bootloader!
 
+## Change Font
+
+>sudo nano /boot/grub/themes/mario/theme.txt
+
+Uncomment the **item font = ""** and dont forget to uncomment the old unwanted font.
+
+ctrl + o, enter, ctrl + x to save and leave nano
+
+>sudo update-grub
+
+And reboot :)
+
 ### Note / Sources
 I got the background image somewhere from google image search and modified it.
 
 The font is from https://www.dafont.com/mario64.font it belongs to Nintendo
+The Super Mario Font was created by Patrick H. Lauke.
+and distributed by Fontstruct https://fontstruct.com
