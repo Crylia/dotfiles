@@ -1,4 +1,9 @@
 # Preview
+
+### Super Mario Font
+![Grub theme Preview](supermario_grub_theme.png)
+
+### N64 Font
 ![Grub theme Preview](grub_theme.png)
 
 # Installation
