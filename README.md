@@ -12,7 +12,7 @@
 
 Now open the grub-customizer and click on _Change Enviroment_ and change the OUTPUT_FILE variable to **/boot/efi/EFI/pop/grub.cfg**
 
-Hit check the "Save this Configuration" than hit *Apply* and *Save*
+Check the "Save this Configuration" than hit *Apply* and *Save*
 
 ## Archlinux
 >sudo pacman -S grub
@@ -22,7 +22,7 @@ Hit check the "Save this Configuration" than hit *Apply* and *Save*
 Stolen from the Archlinux wiki, have no time to try it myself.
 
 ## Theme
->git clone https://github.com/Crylia/dotfiles/grub
+>git clone https://github.com/Crylia/dotfiles.git
 
 >cd dotfiles/grub/
 
