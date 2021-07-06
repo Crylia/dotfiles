@@ -4,8 +4,8 @@
 ![Grub theme Preview](supermario_grub_theme.png)
 
 ### N64 Font
-![Grub theme Preview](grub_theme.png)
-
+![Grub theme Preview](n64mario_grub_theme.png)
+(pls dont ask why the countdown placement is different)
 # Installation
 
 ## Pop!_OS

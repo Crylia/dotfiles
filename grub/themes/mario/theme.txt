@@ -13,6 +13,7 @@ terminal-font: "Super Mario Land (Game Boy) Regular 24"
 
 # Boot menu
 + boot_menu {
+
   left = 29%
   top = 33%
   width = 550
@@ -25,4 +26,19 @@ terminal-font: "Super Mario Land (Game Boy) Regular 24"
   item_height = 40
   icon_width = 0
   item_icon_space = 0
+}
+
+# Autoboot Countdown
++ progress_bar {
+  left = 0%
+  top = 55%
+  width = 0
+  height = 0
+  id = "__timeout__"
+  text = "@TIMEOUT_NOTIFICATION_SHORT@"
+  text_color = #ffffff
+  bar_style = "*"
+  hilight_style = "*"
+  font = "Super Mario Land (Game Boy) Regular 48"
+  #font = "Mario64 Regular 32"
 }
